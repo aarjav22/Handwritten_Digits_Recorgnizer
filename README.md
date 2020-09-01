@@ -17,16 +17,16 @@
 <img src='./background/2.PNG'>
 
 <b>Click on the Highlighted (Camera) button it will open New Window with the Predictions Results</b>
-<img src='./background/6.PNG'>
+<img src='./background/6.png'>
 
 <b>The Result Window will appear like this showing the percentage of accuracy of each number</b>
 <img src='./background/3.PNG'>
 
 <b>To Remove the Written text or number click on the highlighted (Delete) button it will clear the canvas</b>
-<img src='./background/5.PNG'>
+<img src='./background/5.png'>
 
 <b>To Get the Information click on the Highlighted (Info) button</b>
-<img src='./background/7.PNG'>
+<img src='./background/7.png'>
 
 <b>It will Display the following Information</b>
 <img src='./background/4.PNG'>
